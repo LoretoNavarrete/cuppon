@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondo-verde {
+    background-color: #28A745;
+  }
+
+
+/*navbar*/
+
+.navbar-brand{
+    width: 86px;
+}
+
+.nav-item{
+    color: white;
+}
+
+
+/* Cupones*/
+.card{
+    margin-bottom: 30px;
+}
+
+.text-secondary{
+	font-weight: 80;
+	color: #707070;
+	margin: 0;
+}
+
+.text-secondary-2 {
+	font-size: 13px;
+	color: #707070;
+	font-weight: 80;
+}
+
+.text-success{
+	font-size: 20px;
+	font-weight: 62px;
+}
+
+.precios{
+	text-align: right;
+}
+
+
+
+
+/*contacto*/
+
+#Contacto{
+    background-color:#28A745;
+    padding: 5%;
+    
+}
+
+#Contacto form label{
+    font-weight: 700;
+    color: white;
+}
+
+.mb-2{
+    color: white;
+
+}
+
+
+/*footer*/
+footer p{
+	color:#707070;
+	font-weight:200;
+    font-size: 16px;
+}
+
+footer img{
+	width: 82px;
+	padding-top: 30px;
+}
